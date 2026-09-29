@@ -1,7 +1,7 @@
 # Hi, Devs! Prazer, me chamo Stephanny :fallen_leaf:
 
 - Tenho 24 anos e, atualmente, moro no interior de São Paulo.
-- Participei do **Programa Oracle Next Education, em parceria com a Alura,** das formações de **programação e desenvolvimento pessoal**
+- Participei do **Programa Oracle Next Education, em parceria com a Alura,** nas formações de **programação e desenvolvimento pessoal**
 - Sou formada em **Marketing** pela Universidade Presbiteriana Mackenzie.
 - Me considero uma 'jovem senhora', entusiasta pela arquitetura clássica e por tudo que é **vintage**.
 - Meus hobbies: **ler, escrever e estar em contato com a natureza.**
